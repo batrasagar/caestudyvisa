@@ -3,7 +3,7 @@
       <div class="topbar-one">
           <div class="container">
               <div class="topbar-one__left">
-                  <a href="#">curtinastudyvisa@gmail.com</a>
+                  <a href="#">caestudyvisa@gmail.com</a>
                   <a href="tel:+917056696969">70566 96969</a>
               </div><!-- /.topbar-one__left -->
               <div class="topbar-one__right">

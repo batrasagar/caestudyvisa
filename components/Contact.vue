@@ -26,7 +26,7 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-contact"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Contact Info</h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">curtinastudyvisa@gmail.com<br>
+                          <p class="contact-info-one__text">caestudyvisa@gmail.com<br>
                               <a href="tel:+917056696969">70566 96969</a> <br> &nbsp; </p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
